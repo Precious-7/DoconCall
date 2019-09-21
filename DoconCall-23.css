@@ -1,0 +1,141 @@
+@charset "utf-8";
+html{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    width: 1366px;
+    height: 881px;
+    margin: 0px;
+    padding: 0%;
+    background-color:#F1F1F1;
+}
+b{
+    color: #229DE8;
+}
+header{
+    width: 1336px;
+    height: 117px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.header{
+    bottom: -10px;
+    margin-left: -100px;
+    margin-top: -30px;
+}
+.nav-header .ul-header li{
+    list-style: none;
+    display: inline;
+}
+#emergency{
+    margin-left: 142px;
+    height: 38px;
+    width: 38px;
+}
+#doc{
+    color:#229DE8;
+    width: 130px;
+    height: 41px;
+    font-size: 30px;
+    position: relative;
+    left: 3px;
+    font-weight: SemiBold;
+}
+#call{
+    font-size: 30px;
+    font-weight: SemiBold;
+    color: #B60B05;
+}
+#notifications{
+    color:#229DE8;
+    width: 86px;
+    height: 24px;
+    margin-left:607px;
+    position: relative;
+    font-weight: 'Regular';
+}
+#BD{
+    color:#229DE8;
+    width: 34px;
+    height: 34px;
+    font-size: 25px;
+    text-align: center;
+    font: 'SemiBold' 'Nunito';
+    letter-spacing: -2px;
+    opacity: 1;
+    margin-left:9px;
+    margin-top: 15px;
+    position: absolute;
+    font-weight: 'Regular';
+}
+.BD{
+    /* border: 1px solid black; */
+    width: 54px;
+    height: 54px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    border-radius: 100%;
+    position: relative;
+    top: -2px;
+    left: 1235px;
+}
+
+
+footer{
+    width: 1267px;
+    height: 127px;
+    background-color: #229DE8;
+    margin-top: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 48px 48px 0px 0px;
+}
+.bottom-nav{
+    /* border: 1px solid black; */
+    height: 30px;
+    margin: 50px;
+}
+ul{
+    display: inline;
+    color: black;
+    /* height: 30px; */
+    position: relative;
+    top: 40px;
+    left: 70px;
+}
+ul li{
+    display: inline;
+    color: white;
+    font-size: 18px;
+}
+.faq-footer{
+    position: relative;
+    left: 81px;
+}
+#facebook-footer{
+    position: relative;
+    left: 305px;
+}
+#twitter-footer{
+    position: relative;
+    left: 315px;
+}
+.contact-us-footer{
+    position: relative;
+    left: 181px;    
+}
+.about-footer{
+    color:black;
+    width:50px;
+}
+.copy2019-footer{
+position: relative;
+left: 681px;
+}
+
+
